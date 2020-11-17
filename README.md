@@ -77,4 +77,8 @@ Reference or Practice [DemoSite](  https://app.hubspot.com/login)
       htmltag.classname1.classname2:not(.classname3) - - it will exclude classname3  
 
     .form-control.private-form__control:not(.login-email)
+    
+    
+    
+    CSS reference : https://www.w3schools.com/cssref/css_selectors.asp
 
